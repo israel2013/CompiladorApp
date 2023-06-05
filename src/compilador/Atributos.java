@@ -8,6 +8,8 @@ package compilador;
  *
  * @author aa504
  */
+
+//atributos 
 public class Atributos {
  String tipo = "";
  String h    = ""; 
